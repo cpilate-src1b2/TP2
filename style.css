@@ -2,15 +2,18 @@
 {
 	margin: 0 30px;
 	background: #fff;
+font-family: DejaVu Sans Condensed;
 }
 
 #header
 {
-	background: #ccc;
-	padding: 20px;
+	background-color: #1763C6;
+	padding: 50px;
+	
+
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: 0; font-family: DejaVu Sans Condensed; color: white; margin-left: 80px;}
 
 #navigation
 {
@@ -88,8 +91,12 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #1763C6;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+	color: white;
+
 }
+
+#news a { color: #4744FF;}
